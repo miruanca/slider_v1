@@ -1,0 +1,32 @@
+{
+    "articulos": [
+        {
+            "imagen": "assets/src/img/fantaNaranja.webp",
+            "nombre": "Fanta Naranja",
+            "descripcion": "Refresco o Gaseosa con un refrescante sabor a naranja."
+        },
+        {
+            "imagen": "assets/src/img/kiwaCafe.webp",
+            "nombre": "Café Kiwa",
+            "descripcion": "Café elaborado de los mejores ingredientes para deleitar tu paladar"
+        },
+        {
+            "imagen": "assets/src/img/chifon.webp",
+            "nombre": "Margarina Chiffon",
+            "descripcion": "Deliciosa margarina y perfecta combinación para tus bocados"
+
+        },
+        {
+            "imagen": "assets/src/img/ringo.webp",
+            "nombre": "Ringo",
+            "descripcion": "Delicioso & Nutritivo alimento para tú perrito"
+
+        },
+        {
+            "imagen": "assets/src/img/cervezaPolar.webp",
+            "nombre": "Cerveza Polar",
+            "descripcion": "Refrescante Bebida para esos días con calor o de disfrute"
+
+        }
+    ]
+}
